@@ -20,9 +20,10 @@
     <a href="[https://linkedin.com/in/asthakumari369]">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
-    <a href="https://dev.to/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+    <a href="mailto:aasthathakur412004@gmail.com">
+        <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="35" height="35"/>
     </a>
+
     
 </div>
 
@@ -44,4 +45,5 @@
 [![](https://visitcount.itsvg.in/api?id=asthaap&icon=4&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
