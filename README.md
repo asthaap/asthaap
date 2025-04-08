@@ -1,8 +1,8 @@
 ## 🪭 Hey, I’m Astha!
-🎓 AIML student @ PES University, Bangalore
-🤖 I train machines to see, think, and sometimes even deploy themselves
-🧠 Working on cool stuff in Machine Learning, Deep Learning, and giving machines a sense of sight through Computer Vision
-🧪 Mixing code, curiosity & coffee ☕
+🎓 AIML student @ PES University, Bangalore<br>
+🤖 I train machines to see, think, and sometimes even deploy themselves<br>
+🧠 Working on cool stuff in Machine Learning, Deep Learning, and giving machines a sense of sight through Computer Vision<br>
+🧪 Mixing code, curiosity & coffee ☕<br>
 ✨ Let’s build the future — one model at a time!
 
 
