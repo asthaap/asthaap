@@ -21,7 +21,7 @@
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="mailto:aasthathakur412004@gmail.com">
-        <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="35" height="35"/>
+        <img src="https://img.icons8.com/ios-filled/50/e0bfd8/new-post--v1.png" alt="Email" width="35" height="35"/>
     </a>
 
     
