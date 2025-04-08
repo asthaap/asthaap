@@ -11,10 +11,6 @@
 🧪 Mixing code, curiosity & coffee ☕<br>
 ✨ Let’s build the future — one model at a time!
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asthakumari369) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aasthathakur412004@gmail.com) 
-
 ### Connect with me!
 <div>
     <a href="[https://linkedin.com/in/asthakumari369]">
